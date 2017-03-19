@@ -7,7 +7,7 @@ I am currently a fourth year student at UC Davis majoring in Applied Statistics 
 - *insert link here*
 
 ### STA 141B Assignments
-- [link]https://anqima.github.io/assignments/assignment1.html[/link]
+- [Link]https://anqima.github.io/assignments/assignment1.html
 
 # Other Interesting Projects
 - *insert links here*
