@@ -1,7 +1,7 @@
 # An Qi Ma
 
 ### About me
-I am currently a fourth year student at UC Davis majoring in Applied Statistics with a focus on electives related to the subject of economics. I'm not sure where I want to take my knowledge of data science so far...
+I am currently a fourth year student at UC Davis majoring in Applied Statistics with a focus on electives related to the subject of economics. Regarding programming skills, I am proficient in R, C, Python, and SQL. I'm not sure where I want to take my knowledge of data science so far...
 
 ### Project
 - *insert link here*
