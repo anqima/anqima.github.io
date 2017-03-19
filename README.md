@@ -1,7 +1,16 @@
 ## An Qi Ma
 
 # About me
-I am a fourth year student at UC Davis majoring in Applied Statistics.</p>
+I am currently a fourth year student at UC Davis majoring in Applied Statistics with a focus on electives related to the subject of economics. I'm not sure where I want to take my knowledge of data science so far...
+
+# Project
+- *insert links here*
+
+# STA 141B Assignments
+- *insert links here*
+
+# Other Interesting Projects
+- *insert links here*
 
 You can use the [editor on GitHub](https://github.com/anqima/anqima.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
