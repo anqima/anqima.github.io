@@ -1,12 +1,7 @@
-<html>
-<head>
-  <title>An Qi Ma</title>
-</head>
-<body>
-<h1>About me</h1>
-<p>I am a fourth year student at UC Davis majoring in Applied Statistics.</p>
-</body>
-</html>
+## An Qi Ma
+
+# About me
+I am a fourth year student at UC Davis majoring in Applied Statistics.</p>
 
 ## Welcome to GitHub Pages
 
