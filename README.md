@@ -6,8 +6,19 @@ I am currently a fourth year student at UC Davis majoring in Applied Statistics 
 ### Project
 - *insert link here*
 
+### STA 141B Labs
+- [Lab 1](https://anqima.github.io/labs/Lab1.html)
+- [Lab 2](https://anqima.github.io/labs/Lab2.html)
+- [Lab 3](https://anqima.github.io/labs/Lab3.html)
+- [Lab 4](https://anqima.github.io/labs/Lab4.html)
+
 ### STA 141B Assignments
 - [Assignment 1](https://anqima.github.io/assignments/assignment1.html)
+- [Assignment 2](https://anqima.github.io/assignments/assignment2.html)
+- [Assignment 3](https://anqima.github.io/assignments/assignment3.html)
+- [Assignment 4](https://anqima.github.io/assignments/assignment4.html)
+- [Assignment 5](https://anqima.github.io/assignments/assignment5.html)
+- [Assignment 6](https://anqima.github.io/assignments/assignment6.html)
 
 # Other Interesting Projects
 - *insert links here*
