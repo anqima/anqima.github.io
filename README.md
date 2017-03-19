@@ -1,13 +1,13 @@
 ## An Qi Ma
 
-# About me
+### About me
 I am currently a fourth year student at UC Davis majoring in Applied Statistics with a focus on electives related to the subject of economics. I'm not sure where I want to take my knowledge of data science so far...
 
-# Project
-- *insert links here*
+### Project
+- *insert link here*
 
-# STA 141B Assignments
-- *insert links here*
+### STA 141B Assignments
+- [link]https://anqima.github.io/assignments/assignment1.html[/link]
 
 # Other Interesting Projects
 - *insert links here*
