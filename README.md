@@ -1,10 +1,10 @@
 # An Qi Ma
 
 ### About me
-I am currently a fourth year student at UC Davis majoring in Applied Statistics with a focus on electives related to the subject of economics. *Add more text here*
+I am currently a fourth year student at UC Davis majoring in Applied Statistics with a focus on electives related to the subject of economics. My skills in programming includes R, Python, C, and a bit of MATLAB and SQL. Aside from statistics and economics, I'm also interested in classics. I'm not sure what I want to do in the future but hopefully it will be related to some fields of statistics or economics. Below are some of the projects and assignments I have done in the past for STA 141B stat data technologies class which I'm currently taking and some of my older projects that I've converted into Python format.
 
-### Project
-- *insert link here*
+### Earthquakes Project
+- [Earthquakes Project](https://github.com/karthikapai/earthquakes)
 
 ### STA 141B Labs
 - [Lab 1](https://anqima.github.io/labs/Lab1.html)
@@ -22,39 +22,4 @@ I am currently a fourth year student at UC Davis majoring in Applied Statistics 
 
 ### Other Interesting Projects
 - *insert links here*
-
-You can use the [editor on GitHub](https://github.com/anqima/anqima.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anqima/anqima.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-
