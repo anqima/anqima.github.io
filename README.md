@@ -4,7 +4,7 @@
 I am currently a fourth year student at UC Davis majoring in Applied Statistics with a focus on electives related to the subject of economics. My skills in programming includes R, Python, C, and a bit of MATLAB and SQL. Aside from statistics and economics, I'm also interested in classics. I'm not sure what I want to do in the future but hopefully it will be related to some fields of statistics or economics. Below are some of the projects and assignments I have done in the past for STA 141B stat data technologies class which I'm currently taking and some of my older projects that I've converted into Python format.
 
 ### Earthquakes Project
-- [Earthquakes Project](https://karthikapai.github.io/earthquakes/)
+- [Earthquakes Project](https://kathy940411.github.io/KathrynChiang/final_project/final_project)
 
 ### STA 141B Labs
 - [Lab 1](https://anqima.github.io/labs/Lab1.html)
